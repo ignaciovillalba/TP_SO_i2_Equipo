@@ -1,0 +1,8 @@
+a-¿ Como actualizo mi repositorio, al estado que esté el repo que hice FORK?
+
+ Se actualiza con el monado git pull [el link del repositorio del que Forkee]
+
+
+b- ¿Puede ALFA actualizar su FORK al estado del fork de GAMMA?
+
+Si puede actualizarlo
